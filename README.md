@@ -5,20 +5,20 @@ We have done this project as a mini project for my academics.   <br>
 To start with this project:
 
 <b>Steps:</b>
->>First clone this repository <br>
+1)First clone this repository <br>
 <br>
->>Install the packages using pip <br>
+2)Install the packages using pip <br>
 <br>
->>To run : <br>
+3)To run : <br>
 
 ```python ChessMain.py ```
 
 ![chess board](https://github.com/shylesharepelly/chess-game-with-speech-instructions/assets/66762947/9d81e74b-29cd-4637-981f-4e0baa7cf06e)
 <br>
 
->>You can move chess pieces with mouse or through voice input.<br>
+4)You can move chess pieces with mouse or through voice input.<br>
 <br>
->>for voice input, press key v, it will start speech recognition.<br>
+5)for voice input, press key v, it will start speech recognition.<br>
 <br>
     <b>you need to say:  from_position , to_position  </b><br>
     <b>example:</b> b7 c5<br>
